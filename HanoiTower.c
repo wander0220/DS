@@ -11,7 +11,7 @@ void HanoiTower(int n, char a, char b, char c) {
 	}
 }
 int main(void) {
-	int n = 20;
+	int n = 5;
 
 	HanoiTower(n, 'A', 'B', 'C');
 	printf("\n %d»∏ ¿Ãµø\n", cnt);
